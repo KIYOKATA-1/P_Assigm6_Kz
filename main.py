@@ -1,4 +1,4 @@
-import re
+import re #import regular expressions
 
 #Get User Input/Пайдаланушы енгізуін алыңыз:
 def get_input():
